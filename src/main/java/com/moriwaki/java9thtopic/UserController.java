@@ -1,4 +1,4 @@
-package com.moriwaki.Java9thTopic;
+package com.moriwaki.java9thtopic;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

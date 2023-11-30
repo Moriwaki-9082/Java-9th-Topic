@@ -1,4 +1,4 @@
-package com.moriwaki.Java9thTopic;
+package com.moriwaki.java9thtopic;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;

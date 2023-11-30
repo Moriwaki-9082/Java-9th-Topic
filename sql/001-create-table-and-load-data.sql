@@ -7,6 +7,6 @@ CREATE TABLE users (
   PRIMARY KEY(id)
 );
 
-INSERT INTO users (name, email) VALUES ("ジョン", "jon@raise-tech.co.jp");
-INSERT INTO users (name, email) VALUES ("フランク", "frank@raise-tech.co.jp");
-INSERT INTO users (name, email) VALUES ("ジェニファー", "jennifer@raise-tech.co.jp");
+INSERT INTO users (name, email) VALUES ("ジョン", "jon@raise-tech.net");
+INSERT INTO users (name, email) VALUES ("フランク", "frank@raise-tech.net");
+INSERT INTO users (name, email) VALUES ("ジェニファー", "jennifer@raise-tech.net");

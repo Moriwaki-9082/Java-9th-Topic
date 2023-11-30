@@ -1,4 +1,4 @@
-package com.moriwaki.Java9thTopic;
+package com.moriwaki.java9thtopic;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
