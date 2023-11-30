@@ -1,4 +1,4 @@
-package com.moriwaki.Java9thTopic;
+package com.moriwaki.java9thtopic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
